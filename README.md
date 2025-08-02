@@ -2,6 +2,13 @@
 
 # WPF日志查看面板使用说明教程
 
+[DeepWiki文档](https://deepwiki.com/Justin1107-good/LogVP/3.1-application-entry-point)
+
+[DeepWiki](https://deepwiki.com/)
+
+Architecture diagrams, documentation, links to sources, and more for all your repos
+为所有您的仓库提供架构图、文档、来源链接等
+
 ## 1. 项目概述
 
 这是一个基于WPF和NLog的通用日志查看面板，支持实时日志显示、文件加载、搜索过滤、详细查看等功能。适用于任何需要日志监控和分析的.NET应用程序。
